@@ -112,7 +112,6 @@ class Uploader {
         return array_merge($response, [
             'type' => 'upload',
             'success' => true,
-            'file_type' => $file->getType(),
             'original_name' => $file->getOriginalName(),
             'upload_path' => $this->clearFileExtension($file->getName())
         ]);
