@@ -1,5 +1,5 @@
 {
-    "name": "optimus/fineuploader-server",
+    "name": "mblarsen/fineuploader-server",
     "autoload": {
         "psr-4": {
             "Optimus\\FineuploaderServer\\": "src/"
