@@ -6,14 +6,8 @@
         }
     },
     "require": {
-        "laravel/framework": "~5.5",
-        "optimus/onion": "0.1.x"
-    },
-    "require-dev": {
-        "mockery/mockery": "0.9.*",
-        "orchestra/testbench": "~3.1",
-        "phpunit/phpunit": "~4.7",
-        "satooshi/php-coveralls": "dev-master@dev"
+        "laravel/framework": "^6.0",
+        "optimus/onion": "^1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
